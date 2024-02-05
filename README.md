@@ -55,6 +55,6 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/rkstu/MultiDisease_Prediction-using-Machine-Learning.git
+   git clone https://github.com/Mukulmalse/MultiDisease-Prediction-using-Machine-Learning.git
   
 
